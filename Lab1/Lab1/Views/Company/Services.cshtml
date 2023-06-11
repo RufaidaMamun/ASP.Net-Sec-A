@@ -1,0 +1,22 @@
+﻿
+<div>
+    <a href="/">Home</a>
+    <a href="/Company/Services">Services</a>
+    <a href="/Company/Team">Team</a>
+    <a href="/Company/Contact">Contact Us</a>
+
+</div>
+<h2>Services</h2>
+
+<ol>
+    @foreach (var item in Model)
+    {
+        <li>
+            @item.Title
+            <ul>
+                <li>@item.Duration </li>
+                <li>@item.fees</li>
+            </ul>
+        </li>
+    }
+</ol>

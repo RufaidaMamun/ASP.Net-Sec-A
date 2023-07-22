@@ -1,0 +1,162 @@
+C:\Users\aksk5\source\repos\RMS\RMS\bin\RMS.dll.config
+C:\Users\aksk5\source\repos\RMS\RMS\bin\RMS.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\RMS.pdb
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\csc.exe
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\csc.exe.config
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\csc.rsp
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\csi.exe
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\csi.exe.config
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\csi.rsp
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\System.AppContext.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\System.Console.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\System.IO.Compression.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\System.Net.Http.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\System.ValueTuple.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\vbc.exe
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\vbc.exe.config
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\vbc.rsp
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\aksk5\source\repos\RMS\RMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aksk5\source\repos\RMS\RMS\bin\Antlr3.Runtime.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\EntityFramework.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\Newtonsoft.Json.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\System.Web.Helpers.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\System.Web.Mvc.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\System.Web.Optimization.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\System.Web.Razor.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\System.Web.WebPages.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\System.Web.WebPages.Razor.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\WebGrease.dll
+C:\Users\aksk5\source\repos\RMS\RMS\bin\EntityFramework.xml
+C:\Users\aksk5\source\repos\RMS\RMS\bin\System.Web.Helpers.xml
+C:\Users\aksk5\source\repos\RMS\RMS\bin\System.Web.Mvc.xml
+C:\Users\aksk5\source\repos\RMS\RMS\bin\System.Web.Optimization.xml
+C:\Users\aksk5\source\repos\RMS\RMS\bin\System.Web.Razor.xml
+C:\Users\aksk5\source\repos\RMS\RMS\bin\System.Web.WebPages.xml
+C:\Users\aksk5\source\repos\RMS\RMS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aksk5\source\repos\RMS\RMS\bin\System.Web.WebPages.Razor.xml
+C:\Users\aksk5\source\repos\RMS\RMS\bin\Newtonsoft.Json.xml
+C:\Users\aksk5\source\repos\RMS\RMS\bin\Antlr3.Runtime.pdb
+C:\Users\aksk5\source\repos\RMS\RMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aksk5\source\repos\RMS\RMS\obj\Debug\RMS.csproj.AssemblyReference.cache
+C:\Users\aksk5\source\repos\RMS\RMS\obj\Debug\RMS.csproj.CoreCompileInputs.cache
+C:\Users\aksk5\source\repos\RMS\RMS\obj\Debug\RMS.csproj.CopyComplete
+C:\Users\aksk5\source\repos\RMS\RMS\obj\Debug\RMS.dll
+C:\Users\aksk5\source\repos\RMS\RMS\obj\Debug\RMS.pdb
+D:\.NET LAB\RMS\RMS\bin\RMS.dll.config
+D:\.NET LAB\RMS\RMS\bin\RMS.dll
+D:\.NET LAB\RMS\RMS\bin\RMS.pdb
+D:\.NET LAB\RMS\RMS\bin\roslyn\csc.exe
+D:\.NET LAB\RMS\RMS\bin\roslyn\csc.exe.config
+D:\.NET LAB\RMS\RMS\bin\roslyn\csc.rsp
+D:\.NET LAB\RMS\RMS\bin\roslyn\csi.exe
+D:\.NET LAB\RMS\RMS\bin\roslyn\csi.exe.config
+D:\.NET LAB\RMS\RMS\bin\roslyn\csi.rsp
+D:\.NET LAB\RMS\RMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\.NET LAB\RMS\RMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\Microsoft.Managed.Core.targets
+D:\.NET LAB\RMS\RMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\.NET LAB\RMS\RMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\System.AppContext.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\System.Collections.Immutable.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\System.Console.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\System.Globalization.Calendars.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\System.IO.Compression.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\System.IO.FileSystem.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\System.Net.Http.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\System.Net.Sockets.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\System.ValueTuple.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\System.Xml.XmlDocument.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\System.Xml.XPath.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\.NET LAB\RMS\RMS\bin\roslyn\vbc.exe
+D:\.NET LAB\RMS\RMS\bin\roslyn\vbc.exe.config
+D:\.NET LAB\RMS\RMS\bin\roslyn\vbc.rsp
+D:\.NET LAB\RMS\RMS\bin\roslyn\VBCSCompiler.exe
+D:\.NET LAB\RMS\RMS\bin\roslyn\VBCSCompiler.exe.config
+D:\.NET LAB\RMS\RMS\bin\Antlr3.Runtime.dll
+D:\.NET LAB\RMS\RMS\bin\EntityFramework.dll
+D:\.NET LAB\RMS\RMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\.NET LAB\RMS\RMS\bin\Microsoft.Web.Infrastructure.dll
+D:\.NET LAB\RMS\RMS\bin\Newtonsoft.Json.dll
+D:\.NET LAB\RMS\RMS\bin\System.Web.Helpers.dll
+D:\.NET LAB\RMS\RMS\bin\System.Web.Mvc.dll
+D:\.NET LAB\RMS\RMS\bin\System.Web.Optimization.dll
+D:\.NET LAB\RMS\RMS\bin\System.Web.Razor.dll
+D:\.NET LAB\RMS\RMS\bin\System.Web.WebPages.Deployment.dll
+D:\.NET LAB\RMS\RMS\bin\System.Web.WebPages.dll
+D:\.NET LAB\RMS\RMS\bin\System.Web.WebPages.Razor.dll
+D:\.NET LAB\RMS\RMS\bin\WebGrease.dll
+D:\.NET LAB\RMS\RMS\bin\EntityFramework.xml
+D:\.NET LAB\RMS\RMS\bin\System.Web.Helpers.xml
+D:\.NET LAB\RMS\RMS\bin\System.Web.Mvc.xml
+D:\.NET LAB\RMS\RMS\bin\System.Web.Optimization.xml
+D:\.NET LAB\RMS\RMS\bin\System.Web.Razor.xml
+D:\.NET LAB\RMS\RMS\bin\System.Web.WebPages.xml
+D:\.NET LAB\RMS\RMS\bin\System.Web.WebPages.Deployment.xml
+D:\.NET LAB\RMS\RMS\bin\System.Web.WebPages.Razor.xml
+D:\.NET LAB\RMS\RMS\bin\Newtonsoft.Json.xml
+D:\.NET LAB\RMS\RMS\bin\Antlr3.Runtime.pdb
+D:\.NET LAB\RMS\RMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\.NET LAB\RMS\RMS\obj\Debug\RMS.csproj.AssemblyReference.cache
+D:\.NET LAB\RMS\RMS\obj\Debug\RMS.csproj.CoreCompileInputs.cache
+D:\.NET LAB\RMS\RMS\obj\Debug\RMS.csproj.CopyComplete
+D:\.NET LAB\RMS\RMS\obj\Debug\RMS.dll
+D:\.NET LAB\RMS\RMS\obj\Debug\RMS.pdb
